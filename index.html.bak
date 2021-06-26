@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <body>
+  <table cellspacing="20">
+  <tr>
+	<td><img src="nani.png" height="200" width="200"></td>
+	<td><h1>VENKAT GURRAM</h1>
+	<p>Associate jr Software engineer at <strong>Cap Gemini</strong></p>
+	<p> I am Back-end <strong>developer</strong></p>
+	</td>
+  </tr>
+  </table>
+ <hr>
+ <h3>Courses Achived</h3>
+ <ul>
+ <li>Full stack development</li>
+ <li>embedeed system</li>
+ <li>Image Processing System</li>
+ </ul>
+ <h3>Work Experience</h3>
+ <table cellpadding="5">
+ </tr>
+ <th>Date</th>
+ <th>Work</th>
+ </tr>
+ <tr>
+	<td>2018-2020</td>
+	<td> Lead developer at KLM technology</td>
+ </tr>
+ <tr>
+	<td>2020-Present</td>
+	<td>Manager at  Cap Gemini</td>
+ </tr>
+ </table>
+ <h3>Skills</h3>
+ <table>
+ <tr>
+	<td>Java</td>
+	<td>⭐⭐⭐⭐⭐   </td>
+	</tr>
+ </table>
+	<tr>
+ <table>
+	<td> Web techonology</td>
+	<td>⭐⭐⭐⭐⭐</td>
+ </tr>
+ </table>
+ <table>
+ <tr>
+	<td>SQL</td>
+	<td>⭐⭐⭐⭐⭐   </td>
+	</tr>
+ </table>
+	<tr>
+ <table>
+	<td>   Photography</td>
+	<td>⭐⭐⭐⭐⭐</td>
+ </tr>
+ </table>
+ <hr>
+ <a href="">Full details</a>
+ <a href="">Contact Me</a>
+  </body>
+</html>
